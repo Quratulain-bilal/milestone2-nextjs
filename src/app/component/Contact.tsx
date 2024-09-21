@@ -12,11 +12,9 @@ const Contact = () => {
               width="100%"
               height="100%"
               className="absolute inset-0"
-              frameBorder={0}
+
               title="map"
-              marginHeight={0}
-              marginWidth={0}
-              scrolling="no"
+            
               src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d115758.70437517508!2d66.87047998858372!3d24.950476087767356!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3eb315316d0ef89f%3A0x3373486be2ae62b0!2sBaldia%20Town%2C%20Karachi%2C%20Karachi%20City%2C%20Sindh%2C%20Pakistan!5e0!3m2!1sen!2s!4v1725096256625!5m2!1sen!2s"
               style={{ filter: "contrast(1.2)  opacity(0.7)" }}
             />
